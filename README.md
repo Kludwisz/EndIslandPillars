@@ -15,7 +15,7 @@ Tp command: /execute in minecraft:the_end run tp @s -2365344 80 -23592448
 
 # Credits
 I'd like to thank the following seedfinding community members, without whom the project<br>
-wouldn't have been possible:<br><br>
+wouldn't have been possible:<br>
 - Neil, KaptainWutax and mjtb49 for their seedfinding libraries,
 - Colin for his research into small end island generation
 - Cubitect for the C Java Random implementation in the Cubiomes library
