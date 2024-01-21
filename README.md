@@ -5,7 +5,7 @@ You can find more similar seeds, as well as some intermediate seeds in the .txt 
 in src/main/cuda/endislands and src/main/java/endislands.
 
 # Results
-The tallest possible end island pillar generated from a single chunk:<br>
+The tallest possible end island pillar generated in a single chunk:<br>
 Seed: 17760714566477 <br>
 Tp command: /execute in minecraft:the_end run tp @s 1040 80 16 <br><br>
 
