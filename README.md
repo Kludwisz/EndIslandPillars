@@ -21,5 +21,5 @@ wouldn't have been possible:<br><br>
 - Cubitect for the C Java Random implementation in the Cubiomes library
 
 # Links to the libraries
-https://github.com/SeedFinding
-https://github.com/Cubitect/cubiomes
+https://github.com/SeedFinding <br>
+https://github.com/Cubitect/cubiomes <br>
