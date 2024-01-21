@@ -7,6 +7,12 @@
 #define CPU_OR_GPU __device__ __host__
 #define MASK48 ((1ULL << 48u) - 1ULL)
 
+// ------------------------------------------------------------------
+// Credits to Cubitect for the cubiomes library, I used parts of the
+// Java Random implementation here
+// https://github.com/Cubitect/cubiomes
+// ------------------------------------------------------------------
+
 CPU_OR_GPU inline void printSeed(uint64_t seed) {
     printf("%" PRIu64 "\n", seed);
 }
