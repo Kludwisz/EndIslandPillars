@@ -2,7 +2,7 @@
 This repository contains the source code I used to find the tallest possible pillars<br>
 made out of small end islands for version 1.16.1. The final results of the project are listed below.<br>
 You can find more similar seeds, as well as some intermediate seeds in the .txt files<br>
-in src/main/cuda/endislands and src/main/java/endislands.
+in src/main/cuda/endislands and src/main/java/endislands or by running the source code yourself.
 
 # Results
 Found for Minecraft Java Edition version 1.16.1.<br><br>
